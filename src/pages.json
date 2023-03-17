@@ -1,0 +1,20 @@
+{
+  "easycom": {
+    "^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+  },
+  "pages": [
+    {
+      "path": "pages/home/index",
+      "style": {
+        "navigationBarTitleText": "麦琪AI助手",
+        "enablePullDownRefresh": false
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "麦琪AI助手",
+    "navigationBarBackgroundColor": "#fff",
+    "backgroundColor": "#fff"
+  }
+}
